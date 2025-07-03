@@ -30,7 +30,7 @@ If you want to share your own fine-tuned models or datasets, you need write perm
 7. Click "Generate Token"
 8. Copy and save your token securely
 
-## Use Token in Python
+## Use Token in Python Scripts
 ```python
 import os
 from huggingface_hub import HfApi
