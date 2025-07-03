@@ -1,5 +1,17 @@
 # HuggingFace Account Setup and Token Guide
 
+Setting up a HuggingFace account token enables us to have a smoother experience with the platform. 
+
+## Rationale
+
+Many valuable models on HuggingFace are either private (restricted to specific users) or gated (requiring approval). For example, Meta's Llama models require you to accept their license terms. Your access token carries the permissions associated with your account, allowing you to download these restricted resources.
+
+## Rate Limiting and Fair Usage
+Without a token, you're treated as an anonymous user with strict download limits. With a token, HuggingFace can track your usage and provide higher rate limits. Think of it like having a premium account versus using a service as a guest.
+
+## Uploading and Contributing
+If you want to share your own fine-tuned models or datasets, you need write permissions. The token acts like your publishing credentials, allowing you to push content to HuggingFace Hub repositories.
+
 ## Create Account
 1. Go to https://huggingface.co/
 2. Click "Sign Up" (top-right)
