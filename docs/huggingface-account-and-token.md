@@ -12,6 +12,8 @@ Without a token, you're treated as an anonymous user with strict download limits
 ## Uploading and Contributing
 If you want to share your own fine-tuned models or datasets, you need write permissions. The token acts like your publishing credentials, allowing you to push content to HuggingFace Hub repositories.
 
+# Access Token Setup Steps
+
 ## Create Account
 1. Go to https://huggingface.co/
 2. Click "Sign Up" (top-right)
