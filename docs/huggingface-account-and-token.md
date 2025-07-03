@@ -46,7 +46,7 @@ my_models = api.list_models(author="your-username")
 print(my_models)
 ```
 
-## Use Token in Kaggle
+## Use Token in Kaggle Notebooks
 1. Install required libraries:
    ```python
    !pip install -q huggingface_hub transformers
