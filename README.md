@@ -1,4 +1,4 @@
-# Practical Computer Vision with PyTorch and FiftyOne
+# Practical Computer Vision Bootcamp
 
 ![](images/image_embeddings_zero_cluster.gif)
 ***Visualizing image embeddings in a 2D space through the FiftyOne app***
