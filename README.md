@@ -71,7 +71,7 @@ You are welcome to fork this repository, experiment with the code, and contribut
 
 #### Author: Antonio Rueda-Toicen
 
-**antonio.rueda.toicen 'at' hpi 'dot' de**
+**antonio 'at' kineto 'dot' ai**
 
 [![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
