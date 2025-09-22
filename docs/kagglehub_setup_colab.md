@@ -8,7 +8,7 @@
 
 Datasets are now downloadable through `kagglehub.download_dataset(dataset_name)` in your Colab environment. 
 
-A function like the following allows you to set up `kagglehub`.
+A function like the following allows you to set up `kagglehub` and download a dataset.
 
 ```python
 import kagglehub
@@ -34,4 +34,9 @@ def setup_kagglehub_credentials():
     print("✅ KaggleHub credentials configured successfully")
 
 setup_kagglehub_credentials()
+
+# Download latest version
+path = kagglehub.dataset_download("andandand/presidential-dog")
+
+print("Path to dataset files:", path)
 ```
