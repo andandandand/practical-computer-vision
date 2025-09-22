@@ -6,4 +6,4 @@
 - In Google Colab, go to Secrets -> "Add New Secret"
 - Create and enable KAGGLE_USERNAME and KAGGLE_KEY variables with the content of the JSON file
 
-Datasets are now downloadable through `kagglehub.download_dataset(dataset_name)` in your Colab environment. This can be loaded directly into FiftyOne.
+Datasets are now downloadable through `kagglehub.download_dataset(dataset_name)` in your Colab environment. 
