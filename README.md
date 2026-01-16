@@ -61,9 +61,8 @@ Video tutorials are available:
 
 ## 💬 Join the Community
 
-For questions, tutorial discussions, or project sharing, join the FiftyOne Community Discord. The channel for this content is **#practical-computer-vision-workshops**.
-*   [FiftyOne Community Discord - Invite Link](https://link.voxel51.com/ES8AlNG)
-*   [Direct Channel Link](https://discord.com/channels/1266527359511564372/1345119286041116763) (You must accept the invite via the link above first!)
+For questions, tutorial discussions, or project sharing, join the KINETO.AI Slack workspace. The channel for this content is **#practical-computer-vision-bootcamp**.
+*   [Slack - Invite Link](https://join.slack.com/t/kinetoaiworkspace/shared_invite/zt-3j3ufnalw-Y94TWf4JNz5SntEBPdjftA)
 
 ## Contributing, Contact & License
 
