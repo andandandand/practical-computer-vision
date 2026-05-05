@@ -1,4 +1,4 @@
-# NVIDIA Workshop Setup Instructions
+# NVIDIA Inference Microservices API Key Setup Instructions
 
 ## 1. Create / Verify Your NVIDIA Account
 
