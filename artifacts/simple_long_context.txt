@@ -1,0 +1,269 @@
+The following workshops are slated to be presented at NVIDIA's GTC 2025 Conference:
+
+Harness NVIDIA’s Advanced Tools for Gen AI in Digital Health
+Presentors: Jin Li // Katie Link
+Description: This training lab explores the capabilities of NVIDIA's AI tools (NVIDIA Inference Microservices and AI Blueprints) in transforming digital health solutions. You'll gain hands-on experience developing AI-driven applications that can interact with healthcare data, enhance clinician-patient interactions, and extract insights from healthcare video content. The focus will be on practical deployment and customization of these GPU-accelerated technologies for specific digital health scenarios.
+
+Advanced Medical AI Development with MONAI: From Interactive Annotation to Foundation Models
+Presentors: Ahmed Harouni
+Description: This hands-on training lab demonstrates how to build end-to-end medical AI workflows using MONAI tools such as Label, VISTA-3D, MAISI, and VILA-M3. You'll gain practical experience with AI-assisted annotation, interactive segmentation, and synthetic data generation to create powerful medical imaging applications.
+
+Building Digital Twin Environments With OpenUSD, NVIDIA Isaac Sim, and ROS: A Hands-On Approach to Robotics Simulation
+Presentors: Ayush Ghosh // Steven Feng
+Description: This lab focuses on creating a digital twin environment using 3D CAD data with OpenUSD, NVIDIA Omniverse, and USD Search NIM. You'll learn to assemble a virtual environment and add virtual robots to it, simulating their basic movements with ROS commands. The goal is to create a detailed digital twin environment for robotics simulation in industrial settings.
+
+Build Your First AI Robotic Arm With OpenVLA and Isaac Sim
+Presentors: Abubakr Karali // Maycon da Silva Carvalho // Teresa Conceicao
+Description: This hands-on workshop introduces creating a simulated robotic arm using OpenVLA and NVIDIA Isaac Sim. Participants will learn to set up and integrate these tools, fine-tune pre-trained VLA models for specific tasks, and control a simulated robotic arm using IsaacSim. This foundation enables the construction and adaptation of robotic applications in a simulated environment, reducing the need for physical hardware.
+
+Advanced Robot Learning With Digital Twins: Simulation, Task Generation, and Imitation Learning With NVIDIA Isaac Sim and Isaac Lab
+Presentors: Kelly Guo // Maycon da Silva Carvalho
+Description: This advanced session focuses on robot learning and task generation using NVIDIA Isaac Sim and Isaac Lab in a digital twin environment. You'll explore the full cycle of robot learning from data capture to imitation learning, and train AI-powered robots for complex tasks in a virtual environment. By the end of this lab, you'll be able to implement advanced robot learning techniques for real-world industrial settings.
+
+Training Perception AI Models With Synthetic Data Generated From Isaac Sim
+Presentors: Rishabh Chadha
+Description: In this hands-on lab, we'll use NVIDIA Omniverse and Isaac Sim to generate synthetic data for training AI models that control robotic manipulators. We'll develop pipelines to create synthetic datasets, train perception models, and deploy them in simulated environments before moving to real-world applications.
+
+Training Humanoids With NVIDIA Isaac Lab and Apple Vision Pro
+Presentors: Oyindamola Omotuyi // Edith Llontop
+Description: This hands-on lab introduces robotics engineers and AI developers to advanced robot learning techniques using NVIDIA Isaac Lab and Apple Vision Pro. Participants will explore both reinforcement learning and imitation learning approaches, gaining practical experience in creating intelligent robotic systems. This lab is ideal for robotics engineers, AI researchers, and developers interested in cutting-edge approaches to robot learning.
+
+Accelerating ROS 2 Workloads With NVIDIA GPU-Powered Libraries and AI Models
+Presentors: Swapnesh Wani // Hemal Shah
+Description: This hands-on lab will explore how to accelerate ROS 2 workloads using NVIDIA's latest GPU-powered libraries. You'll learn techniques for optimizing ROS 2 packages for GPU acceleration, improving performance and reducing latency in AI perception, navigation, and more.
+
+The Good, the Bad, and the Ugly: Cost-Efficient LLM Inference With Quantization, Pruning, and Distillation
+Presentors: Harshita Seth // Lavinia Ghita // Ziv Ilan
+Description: This presentation covers the theoretical and practical aspects of compression techniques used to create more efficient versions of Large Language Models (LLMs). Specifically, it delves into the details of quantization, pruning, and distillation as methods for efficient inference and cost reduction. The session will equip attendees to perform efficient inference and deployment of LLMs using NVIDIA's solutions.
+
+Streamline Drug Discovery With NVIDIA BioNeMo NIMs and Blueprints
+Presentors: Kristopher Kersten // Neel Patel (WWFO - Clara Healthcare)
+Description: NVIDIA BioNeMo is a platform for enhancing drug discovery stages through AI, utilizing large biochemical datasets. BioNeMo NIMs and Blueprints enable streamlined AI workflows with cloud-native, modular components, improving scalability and deployment of complex models. This can accelerate drug development, improve prediction accuracy, and enhance biochemical data analysis.
+
+Getting Started with Langflow: Build a Multi-Agent Shopping Assistant
+Presentors: Kiyu Gabriel
+Description: This interactive training lab will teach you to design and deploy a custom shopping assistant using Langflow's intuitive interface and NVIDIA NeMo Framework. You'll learn to configure agents, customize Retrieval-Augmented Generation (RAG) pipelines, and deploy a multi-agent workflow, gaining hands-on experience in streamlining agent creation.
+
+An Introduction to NVIDIA Cosmos for Physical AI
+Presentors: None
+Description: There is no presentation description provided. The context only includes a limited set of information, but I understand that no description exists.
+
+Unleashing Generative AI Microservices at the Edge with NVIDIA Jetson and AWS IoT Greengrass
+Presentors: None
+Description: In this hands-on lab, you'll learn how to deploy generative AI microservices on NVIDIA Jetson devices, both directly and through the cloud using AWS IoT Greengrass. You'll engage in practical exercises to enable edge-to-cloud connectivity, optimize deployment pipelines, and orchestrate device management.
+
+Turn Text Into Video: Explore Animated Content Creation With Multimodal Gen AI and NVIDIA Technologies
+Presentors: Ekaterina Sirazitdinova // Oleg Sudakov
+Description: This training explores multimodal generative AI in video generation, its applications, and state-of-the-art solutions, including a brief history and hands-on dataset preparation for text-to-video model fine-tuning. The session culminates in a demonstration of running inference on an open-source text-to-video model.
+
+PDFSpeak: Unlocking Multimodal PDF Intelligence Through Speech
+Presentors: Aparnaa Ramani // Arun Raman // Rachel Oberman // Shyam Renjith
+Description: In this hands-on session, participants will learn to build and run PDFSpeak, a cutting-edge approach that enables interaction with complex PDF documents using speech, vision, and text. This innovative technique unlocks next-level insights from PDF documents.
+
+Speech-to-Omniverse: An End-to-End Pipeline Generating 3D Models Using Your Own Voice, Ninja Edition
+Presentors: Mireille Fares // Stefanie Grois // Benedikt Keyzers
+Description: In this presentation, you'll learn how to create an end-to-end pipeline generating 3D assets using only your voice. The pipeline transforms text to 2D and then to 3D, and you'll see how to bring the 3D assets to life using Omniverse KIT SDK. The goal is to create a 360-degree beauty shot video that can be shared on social media.
+
+Developing OpenUSD Applications for Controllable Generative AI
+Presentors: Ashley Goldstein
+Description: In this hands-on lab, you'll learn to build an AI-powered application that combines Omniverse with NVIDIA's NIM microservices. You'll create real-time, AI-driven experiences using Edify3D and USD Search, enabling dynamic, AI-generated content.
+
+Integrating Industrial Data With Digital Twins Using Microsoft Power BI and NVIDIA Omniverse
+Presentors: Shashi Bhushan // Martin Karlsson // Angel Mata
+Description: This hands-on lab integrates real-time IoT data into industrial digital twins using Microsoft Azure IoT and NVIDIA Omniverse. You'll learn how to build a digital twin application that responds to real-time data, connect virtual sensors to data streams, and visualize live data. The goal is to develop a dynamic digital twin application that utilizes data from physical assets.
+
+Developing an OpenUSD Configurator Experience for Apple Vision Pro
+Presentors: Jen Borucki // Max Bickley
+Description: In this hands-on lab, we will create a photoreal, 3D automotive configurator application for the Apple Vision Pro (AVP) using Omniverse Kit SDK and OpenUSD. We will also explore implementing custom Swift UI to interact with the virtual product in real-time and learn to leverage advanced technologies for immersive retail experiences.
+
+Developing Industrial Digital Twins Applications for Apple Vision Pro
+Presentors: Jen Borucki // Max Bickley
+Description: This advanced lab teaches developers how to create interactive and immersive spatial experiences for Apple Vision Pro, leveraging NVIDIA Omniverse and SwiftUI for frontend development. You'll learn visionOS development techniques to optimize industrial digital twins and blend digital content with physical space.
+
+Build Next-Gen Agents With Large Vision Language Models
+Presentors: Abubakr Karali // Debraj Sinha // Sammy Ochoa
+Description: This workshop will demystify the challenges of deploying vision-language models (VLMs), teaching participants how to choose the best VLM, train and fine-tune it on a small dataset, and deploy it with NVIDIA Nemo. The workshop will cover topics from VLM fundamentals to hands-on experience with NVIDIA Model Management (NIMs) and Vision Inferencing Accelerator (VIA).
+
+Intro to Large Language Models: LLM Tutorial and Disease Diagnosis LLM Lab
+Presentors: Michaela Buchanan
+Description: This tutorial covers the basics of Large Language Models (LLMs), including their strengths and weaknesses, input processing, and pre-training/fine-tuning. It also discusses the Hugging Face transformers library and QLoRa for reducing computational requirements. The workshop portion focuses on using LLMs for disease diagnosis, specifically fine-tuning the Falcon-7B-Instruct model on the MedText dataset.
+
+Mastering NVIDIA Nsight: GPU Performance Analysis for Ray Tracing Applications
+Presentors: Aurelio Reis // Jeffrey Kiel // Axel Mamode
+Description: This presentation focuses on using NVIDIA Nsight Graphics and Nsight Systems to profile and optimize workloads for ray tracing applications, analyzing performance through trace data from multiple frameworks. You'll learn how to identify bottlenecks at the source-code and GPU assembly levels and master tools like Flame Graphs to optimize shaders and CUDA code for maximum efficiency.
+
+Mastering NVIDIA Nsight: Comprehensive Debugging for Ray Tracing Applications
+Presentors: Aurelio Reis // Jeffrey Kiel // Kyle Hiebel// Francesco Carucci
+Description: This presentation, "Mastering NVIDIA Nsight", focuses on using advanced NVIDIA tools, such as Nsight Graphics and Nsight Aftermath, to debug and resolve complex bugs in ray tracing applications. We will cover how to use these tools to inspect shader variables, analyze crash dumps, and ensure correct shader configurations.
+
+Learn OpenUSD: Foundations to Applied Concepts
+Presentors: Matias Codesal // Krista Glanville
+Description: Join our drop-in lab to develop your OpenUSD expertise with the support of on-site experts and AI tutor guidance. This self-paced experience covers foundational concepts to best practices, including hands-on exercises and real-time guidance on schema, composition arcs, and asset modularity.
+
+Accelerate Physical AI Development Workflows with Omniverse Cloud Sensor RTX
+Presentors: Justine Lin // Daniel Lindsey
+Description: This hands-on lab introduces developers to NVIDIA Omniverse Cloud Sensor RTX, a set of APIs for physically accurate sensor simulation. The lab is ideal for robotics engineers, autonomous vehicle developers, and AI specialists, offering practical experience in leveraging Sensor RTX APIs to accelerate autonomous system development. This lab aims to accelerate the creation and testing of autonomous systems.
+
+CUTLASS Walkthrough
+Presentors: Vijay Thakkar
+Description: Join our walkthrough to learn about the latest advancements in CUTLASS, including new features Blackwell, Flash Attention 3, and the CUTLASS Python Interface. We'll combine lecture and hands-on examples for an immersive learning experience.
+
+Domain-Adaptive Pre-Training: Tailoring LLMs for Specialized Applications
+Presentors: Aastha Jhunjhunwala // Janaki Vamaraju // Sugandha Sharma
+Description: In this hands-on lab, you'll learn an end-to-end approach to build domain-specific large language models by curating datasets and training custom tokenizers. You'll gain practical skills to adapt LLMs to specialized applications and real-world use cases.
+
+Build High-Performance and AI-Enabled Sensor Processing Applications
+Presentors: Bogdan Mitrea // Maximilian Ofir
+Description: The presentation will focus on building high-performance AI-enabled sensor processing applications that can scale from the edge to on-premises and cloud environments. The main challenges to overcome include real-time latency, custom pipeline complexity, hardware heterogeneity, and long-term stability. The presenters will demonstrate using NVIDIA's Holoscan SDK to address these challenges.
+
+Low-Latency Numerical Computing With MatX
+Presentors: Cliff Burdick // Dylan Eustice // Tyler Allen
+Description: This lab introduces the Holoscan framework and demonstrates how to accelerate latency-sensitive workflows using NVIDIA's MatX numerical computing API. Students will learn to define a reusable, low-latency computing framework using common building blocks, measure performance, and extend MatX with custom operators.
+
+Quantum Computing Meets AI: A Journey with CUDA-Q
+Presentors: Pika Wang // Monica Van Dieren
+Description: This hands-on session with CUDA-Q explores how to merge quantum algorithms with machine learning and generative AI, accelerating innovation in hybrid quantum-classical computing. You'll embark on a journey to navigate smoothly between classical and quantum domains, driving advancements in this field.
+
+Kernel Optimization for AI and Beyond: Unlocking the Power of Nsight Compute
+Presentors: Felix Schmitt // Peter Labus
+Description: Learn how to unlock the full potential of NVIDIA GPUs using Nsight Compute for AI and beyond workloads. This includes profiling kernel execution behavior, optimizing GPU resource utilization, and debugging kernels with guided analysis. The course covers profiling AI frameworks like PyTorch and optimized Tensor Core utilization in accelerated Python applications.
+
+Find the Bottleneck: Optimize AI Pipelines With Nsight Systems
+Presentors: Robert Dietrich
+Description: In this presentation, we will use NVIDIA Nsight Systems to detect bottlenecks in AI pipelines and guide you through the performance analysis process of GPU-accelerated AI applications. We'll cover profiling of multiple components, including CPU, GPU, network, and I/O activity.
+
+DevOps for Gen AI App Development: Build Scalable and Reproducible LLMOps Pipelines
+Presentors: Anshul Jindal // Dmitry Mironov // Martin Piercy
+Description: This lab focuses on bridging the gap between data science and modern development practices by building scalable and reproducible development pipelines for Gen AI applications. You'll integrate key tools like NeMo Customizer and MLFlow into a GitOps-driven pipeline, enabling flexible and cloud-agnostic support for data scientists.
+
+“I See Dead Pipelines...Without CI/CD:" The Gen AI Easy Button for Fine-Tuning, Evaluation, and Inference With NVIDIA NIMs and Nemo Microservices
+Presentors: Anshul Jindal // Dmitry Mironov // Martin Piercy
+Description: Learn how to automate the entire Large Language Model (LLM) life cycle using CI/CD pipelines, NVIDIA NIMs, and Nemo Microservices. In this hands-on course, you'll design and build a cloud-agnostic LLMOps pipeline on Kubernetes for scalable and flexible Gen AI app deployment. This pipeline will streamline development, fine-tuning, evaluation, and deployment of LLMs, ensuring seamless integration and validation of updates.
+
+Build Visual AI Agents With RAG Using NVIDIA Morpheus, RIVA, and Metropolis
+Presentors: Adola Adesoba // Dhruv Nandakumar
+Description: In this presentation, you'll learn how to create custom visual AI agents using NVIDIA Visual Insights Agent (VIA) microservices and a practical example of agentic Retrieval-Augmented Generation (RAG) pipeline with NVIDIA Morpheus SDK and Riva Speech Services. You'll perform RAG on egocentric video feeds for dynamic, open-world question-answering.
+
+Accelerating Linguistic Diversity: GPU-Powered Corpus Curation With NVIDIA NeMo Curator for Spanish, French, and Other Non-English Languages
+Presentors: Adam Henryk Grzywaczewski // Meriem Bendris // Miguel Martinez
+Description: This presentation focuses on accelerating linguistic diversity by developing Large Language Models (LLMs) for non-English languages with limited or imbalanced datasets. It explores methodologies for curation, including text selection and cleaning, semantic deduplication, and synthetic data generation, using NVIDIA's NeMo Curator for efficient GPU acceleration. The goal is to create high-quality text corpora for languages like Spanish, French, and others, enabling more inclusive and representative language technologies.
+
+Nsight Analysis System: Build custom Python analysis scripts to summarize performance and reveal bottlenecks with single and multi-node applications
+Presentors: Joan Yi // Jay Kreibich
+Description: This hands-on session will show attendees how to write custom analysis scripts, called "recipes", to analyze performance and identify bottlenecks in single and multi-node applications using the Nsight Analysis System. Participants will learn how to process, filter, and visualize various hardware and software events captured by Nsight Systems.
+
+Learn to Build Agentic AI Workflows for Enterprise Applications
+Presentors: Dhruv Nandakumar // Matt Penn
+Description: In this class, you'll learn to build configurable AI workflows and tools using NVIDIA technologies for enterprise applications. You'll deploy an agentic AI workflow, create tools for AI agents, and augment existing workflows with new tools to increase productivity.
+
+Accelerate Data Science and Leverage Foundation Models in Digital Biology
+Presentors: Gary Burnnett // Neel Patel
+Description: This training lab explores the intersection of AI and biology, leveraging foundation models to analyze biological data. Attendees will gain hands-on experience in end-to-end processing, from data pre-processing to fine-tuning a language foundation model, using NVIDIA's platform and solutions like Parabricks and BioNeMo.
+
+Structure From Chaos: Accelerate GraphRAG With cuGraph and NVIDIA NIM
+Presentors: Benika Hall / Christopher Brissette // Rohan Rao // Sunil Patel
+Description: This presentation will cover how to integrate large language models with NVIDIA Inference Microservices (NIM) and cuGraph to create AI solutions for complex data. We will focus on fine-tuning techniques, Langchain agents, and GPU-accelerated graph analytics for retrieval-augmented generation (RAG) evaluation.
+
+Accelerate Data Analytics on GPUs With the RAPIDS Accelerator for Apache Spark
+Presentors: Ahmed Hussein // Lee Yang // Matt Ahrens
+Description: The RAPIDS Accelerator for Apache Spark leverages GPUs to speed up ETL and analytics workloads in Spark, reducing costs. This training lab will cover using RAPIDS Accelerator in Spark, including executing SQL queries on both CPU and GPU. The presentation will also explore toolsets for successful implementation.
+
+Apply Multi-Node Multi-GPU Computing to HPO and Inference
+Presentors: Miguel Martinez // Nick Venanzi // Roman Yokunda Enzmann
+Description: This presentation focuses on reducing the end-to-end ML pipeline time and increasing model accuracy by distributing model training, hyperparameter optimization, and inference across multiple GPUs. With parallel computing, users can tackle increasingly large datasets and time-consuming computations.
+
+Use GPUs to Accelerate Vector Databases
+Presentors: Corey Nolet // Julio Perez // Nathan Stephens
+Description: This lab will focus on optimizing vector database workloads on the GPU, covering three key aspects: ingest and index creation at scale, choosing the best indexes for your data, and tuning indexes for optimal search speed and quality. We'll explore hands-on techniques to accelerate these tasks on GPUs to power applications like generative AI and recommender systems.
+
+Learn how Gen AI Image Pipelines are Shaping up in Various industries With Hands-on Workflows
+Presentors: Avinash Chakravarthi // Sakshi Tyagi // Shreyans Dhankhar
+Description: This presentation will cover how industries like media, retail/fashion, and healthcare are leveraging combination of diffusion and transformer models for Generative AI image workflows. We'll also explore emerging use cases and discuss the impact of Generative AI on conventional computer vision pipelines.
+
+Empower Digital Humans With RAG and Multi-Modal AI
+Presentors: Rohit Vaswani
+Description: This lab focuses on enhancing digital humans with intelligence and contextual awareness by implementing retrieval-augmented generation (RAG) and integrating multi-modal AI models. You'll learn to combine large language models (LLMs), vision transformers (ViT), and vision-language models (VLMs) to create sophisticated and interactive digital human experiences.
+
+Build an Industrial Co-Pilot for Process Monitoring and Quality Control
+Presentors: Chintan Shah
+Description: This lab will demonstrate how industrial co-pilots use AI to monitor and optimize repetitive industrial processes through computer vision and natural language processing. We will learn how to use Vision Language Models (VLMs) and Large Language Models (LLMs) to build these intelligent assistants, customize, and optimize them for specific use cases and industries.
+
+Best Practices in Feature Engineering for Tabular Data With GPU Acceleration
+Presentors: Benedikt Schifferer // Chris Deotte // Ronay Ak
+Description: This presentation focuses on best practices for feature engineering in tabular data, which can significantly boost model accuracy. Learners will discover techniques for creating features from different data types (categorical, numerical, time-series) and accelerate data frame operations using RAPIDS on GPU.
+
+Bring Accelerated Computing to Data Science in Python
+Presentors: Kevin Lee
+Description: This workshop focuses on applying open-source GPU accelerators from the NVIDIA RAPIDS project to improve common Python data science workflows. It aims to address the increasing demand for efficient data processing with rapidly growing datasets in volume, velocity, and veracity.
+
+Accelerating Clustering Algorithms to Achieve the Highest Performance
+Presentors: Allison Ding
+Description: Clustering is a widely used technique in industries for recommendation systems and fraud detection. This lab will accelerate common clustering algorithms and provide tips to achieve the highest performance. The goal is to improve the execution speed of these clustering algorithms.
+
+Analyzing and Visualizing Large Data Interactively using Accelerated Computing
+Presentors: Allison Ding
+Description: In this lab, we will explore how to accelerate the visualization of large data using common visualization packages in key industries. This will deliver powerful insights in an intuitive way and make results more approachable to a wider audience through interactive visualizations.
+
+Learn OpenUSD: Robotics Best Practices
+Presentors: Renato Gasoto
+Description: This course, Learn OpenUSD: Robotics Best Practices, expands on asset concepts and applies them to the robotics domain. It covers best practices from the URDF Importer in Isaac Sim and teaches optimization techniques like mesh merging and instancing.
+
+Robotic Simulations With Reinforcement Learning at Scale: Harness the Power of NVIDIA Isaac Lab on AWS
+Presentors: Abhishek Srivastav // Shaun Kirby (Note: Aakriti Srivastava IN does not seem to know about this course)
+Description: This course, "Robotic Simulations With Reinforcement Learning at Scale", explores the benefits of using simulation-based reinforcement learning in robotics, focusing on NVIDIA Isaac Lab. It covers distributed training using multiple GPU nodes on AWS, leveraging AWS Batch for accelerated performance, and includes insights on simulating to real-world robotic applications.
+
+Create and Manage On-Prem AI Clusters With Base Command Manager
+Presentors: Max Steele // Terrell Bennett
+Description: This lab introduces the NVIDIA Base Command Manager and covers best practices for managing AI infrastructure. Through hands-on experience, you'll learn how to provision cluster nodes, deploy Kubernetes, and configure nodes with GPUs, among other AI cluster management tasks.
+
+Use NVIDIA Base Command Manager and Run:ai to Fuel Your AI Superpowers
+Presentors: Jeff Weiss // Scott Ellis
+Description: In this hands-on session, you'll learn how to use NVIDIA Base Command Manager and Run:ai to power your AI factory and increase resource utilization. You'll install Run:ai on a Base Command Manager-managed cluster, making it easily manageable for administrators and data scientists. This will simplify your AI workflow and help you take your AI factory to the next level.
+
+Make Retrieval Better: Fine-Tuning an Embedding Model for Domain-Specific RAG
+Presentors: Benedikt Schifferer // Gabriel Moreira // Ronay Ak
+Description: This tutorial focuses on fine-tuning an embedding model to improve Retrieval Augmented Generation (RAG) in Language Models (LMs) for domain-specific applications. A key challenge in LMs is their reliance on pre-trained data, which can lead to inaccuracies or hallucinations with domain-specific information. This tutorial addresses this issue by fine-tuning a text embedding model using synthetic data from a domain-specific corpus.
+
+Address Complex/Logical Tasks With Conversational AI: Multi-Agent, Multi-Turn Framework From Scratch
+Presentors: Sagar Desai
+Description: Learn to build an agent framework to tackle multi-turn complex tasks and conversational AI interactions with ease. This hands-on course will help you master the skills to create agents that can handle complex conversations and persona-based interactions using a multi-turn framework.
+
+Applying AI Weather Models With NVIDIA Earth-2
+Presentors: Georg Ertl // Jussi Leinonen // Stefan Weissenberger
+Description: This presentation explores how NVIDIA Earth-2 facilitates efficient weather and climate modeling. It covers the use of a growing stack of global AI weather forecasting models and the application of downscaling models to generate high-resolution outputs. We'll discover the key use cases and applications that benefit from this emerging technology.
+
+The Speed of Thought: Navigate LLM Inference Autoscaling for a Gen AI Application Toward Production
+Presentors: Dmitry Mironov // Sergio Perez // Mohak Chadha
+Description: Learn how to optimize latency and throughput for your Large Language Model (LLM) applications using autoscaling hyperparameters and key metrics. Discover best practices for deploying your LLM applications on Kubernetes using NVIDIA's benchmarking software, ensuring low latency and cost-effectiveness in production.
+
+007 Evaluations for Your Customer Assistant LLM Agent: No Time for Hallucinations
+Presentors: Dmitry Mironov // Sergio Perez // Ziv Ilan
+Description: This presentation focuses on evaluating and optimizing a Customer Assistant LLM agent to ensure it performs accurately and with no "hallucinations" in real-world scenarios. You will learn how to leverage the NeMo Evaluator Microservice to create unit tests and track model quality during development, and to optimize accuracy for multilingual deployments.
+
+From NeRF to 3DGS: Exploring Advanced Methods for High-Quality Static and Dynamic Scene Reconstruction in Interactive 3D Worlds
+Presentors: Andrea Pilzer // Mireille Fares
+Description: In this training lab, we'll explore using neural radiance fields (NeRF) and 3D Gaussian splatting (3DGS) to create detailed 3D scenes from just a few images, focusing on both static and dynamic scenes. We'll cover modeling dynamic scenes with moving objects and combining elements from different scenes.
+
+Blueprints for Success: Take the Red Pill — Navigating NIM Agent Workflows for Real-World Multimodal Retrieval
+Presentors: Natalia Segal // Rita Fernandes Neves // Ziv Ilan
+Description: In this course, you'll learn how to leverage NVIDIA NIM agent blueprints for multimodal retrieval-augmented generation (RAG) in real-world applications. Through hands-on modules, you'll gain the skills and knowledge needed to implement and optimize multimodal data ingestion, embedding, and retrieval, and guide your AI solution from proof of concept to production.
+
+Evaluating RAG and Semantic Search Systems
+Presentors: Amit Bleiweiss
+Description: As LLMs and RAG adoption increases in the enterprise, there's a growing need for robust evaluation of these systems to ensure they meet high regulatory standards. The presentation will cover evaluation techniques addressing domain-specific language, evaluation metrics, and independent assessment of retrieval and generation steps, taking temporal information into account.
+
+Accelerating Portfolio Optimization
+Presentors: Ioana Boier // Peihan Huo // Yigal Jhirad
+Description: This presentation explores how to accelerate portfolio optimization using cutting-edge techniques on GPUs. It covers how to reformulate sequential optimization algorithms for parallel processing, leveraging GPU acceleration to manage complex investment portfolios efficiently. Examples using FX options and equity portfolios will be provided.
+
+Scaling Inference Using NIM Through A Serverless NCP SaaS Platform
+Presentors: Anish Mukherjee // Jalaj Thanaki
+Description: This presentation will train you to scale your Gen AI workload and create a serverless SaaS platform. It will cover using NIMs to scale an open-source Large Language Model (LLM) with open-source technologies like Kubernetes, Ray, and KServe, and demonstrate how to collect GPU utilization metrics and autoscale compute resources.
+
+Automate 5G Network Configurations With NVIDIA AI LLM Agents and Kinetica Accelerated Database
+Presentors: Amparo Canaveras // Swastika Dutta
+Description: This presentation will show how to create AI agents using NVIDIA NIM and LangGraph to automate 5G network configurations. The agents will monitor network quality of service and respond to congestion by creating new network slices. AI will be integrated into a simulated 5G environment using the Open Air Interface 5G lab and LangGraph with Python.
+
+Build an AI Research Assistant with NVIDIA AI Blueprints
+Presentors: Jacob Liberman
+Description: In this hands-on training lab, attendees will build a complex AI-powered research assistant using NVIDIA software, incorporating key features such as a digital human avatar, multimodal document understanding, and an AI agent that researches topics and discusses findings. The lab will demonstrate how to build a solution similar to an interactive AI research assistant, leveraging NVIDIA software and tools.
