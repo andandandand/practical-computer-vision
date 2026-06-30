@@ -34,4 +34,20 @@ To use your API key securely in Google Colab without hardcoding it into your not
    os.environ["NVIDIA_API_KEY"] = userdata.get("NVIDIA_API_KEY")
    ```
 
-> **Note:** Secrets are tied to your Google account and are not shared when you share the notebook. Each workshop participant must add their own key.
+## 4. Add the API Key as a Secret in Kaggle Notebooks
+
+1. Create a new notebook in https://www.kaggle.com/code/new
+2. Click on Add-ons -> Secrets
+3. Set the **Label** to `NVIDIA_API_KEY`.
+4. Paste your NVIDIA API key into the **Value** field.
+5. Check the box next to its name to grant access.
+6. In your notebook, access the key with the code:
+
+```python
+from kaggle_secrets import UserSecretsClient
+user_secrets = UserSecretsClient()
+os.environ["NVIDIA_API_KEY"] = user_secrets.get_secret("NVIDIA_API_KEY")
+```
+
+> **Note:** Secrets are tied to your account and are not shared when you share the notebooks. Each workshop participant must generate and add their own key. You can use the same API keys in different endpoints (e.g., Colab, Kaggle, local).
+
