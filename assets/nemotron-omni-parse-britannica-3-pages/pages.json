@@ -1,0 +1,90 @@
+{
+  "schema_version": 2,
+  "dataset_id": "biglam/britannica-illustrated-pages",
+  "dataset_config": "pages",
+  "dataset_split": "train",
+  "dataset_revision": "d14ad4cf2717f97b63c668c3d6a83e6257791e33",
+  "dataset_card_url": "https://huggingface.co/datasets/biglam/britannica-illustrated-pages",
+  "selection_policy": "Three visually verified pages spanning complementary historical document-parsing challenges. file_key is the stable identity; row_idx is retained only as a verification aid for this pinned revision. source_sha256 pins the exact bytes fetched for this demo.",
+  "evaluation_notice": "p_illustrated and crop-mask fields are model predictions, not human ground truth. This manifest supports a qualitative demo, not an accuracy benchmark.",
+  "pages": [
+    {
+      "label": "B1",
+      "challenge": "Dense text with an embedded illustration",
+      "selection_rationale": "A dense two-column GAS / MANUFACTURE article with a regenerative-furnace figure embedded in the reading flow.",
+      "preferred_region_types": [
+        "Picture",
+        "Chart",
+        "Table",
+        "Figure"
+      ],
+      "row_idx": 100033,
+      "file_key": "pages/text-figs/encyclopaedia-britannica-11th-and-12th-editions/Encyclopædia Britannica - Volume 11_p0403.jpg",
+      "edition": "12th",
+      "year": 1922,
+      "page": 512,
+      "title": "Encyclopædia Britannica 11th and 12th Editions",
+      "contributor": "",
+      "ia_url": "https://archive.org/details/encyclopaedia-britannica-11th-and-12th-editions",
+      "ia_page_url": "https://archive.org/details/encyclopaedia-britannica-11th-and-12th-editions/Encyclop%C3%A6dia%20Britannica%20-%20Volume%2011/page/n511/mode/1up",
+      "bucket_url_jpg": "https://huggingface.co/buckets/biglam/britannica/resolve/source/jpg/encyclopaedia-britannica-11th-and-12th-editions/Encyclopædia Britannica - Volume 11_0511.jpg",
+      "source_sha256": "899b27b5c674c2efed87fbf0b9a56a06797c24c3e6b4c557a6194c68e11180fd",
+      "source_bytes": 987111,
+      "words": 1820,
+      "stratum": "text",
+      "p_illustrated": 0.9997919201850891
+    },
+    {
+      "label": "B2",
+      "challenge": "Full-page engraved plate",
+      "selection_rationale": "A full-page ARACHNIDES scientific engraving containing multiple specimens and printed captions.",
+      "preferred_region_types": [
+        "Picture",
+        "Figure",
+        "Chart",
+        "Table"
+      ],
+      "row_idx": 20010,
+      "file_key": "pages/plates/encyclopaedia-britannica-7ed-1842/Vol 3 (Anatomy-Astronomy) 193060122.23_p0938.jp2",
+      "edition": "7th",
+      "year": 1842,
+      "page": 863,
+      "title": "Encyclopaedia Britannica 7th Edition 1842",
+      "contributor": "",
+      "ia_url": "https://archive.org/details/encyclopaedia-britannica-7ed-1842",
+      "ia_page_url": "https://archive.org/details/encyclopaedia-britannica-7ed-1842/Vol%203%20%28Anatomy-Astronomy%29%20193060122.23/page/n862/mode/1up",
+      "bucket_url_jpg": "https://huggingface.co/buckets/biglam/britannica/resolve/source/jpg/encyclopaedia-britannica-7ed-1842/Vol 3 (Anatomy-Astronomy) 193060122.23_0862.jpg",
+      "source_sha256": "f916cfde042eadd32910485dde9b84c7c3f5115a645f84c61dfb94ae1d5edae3",
+      "source_bytes": 345799,
+      "words": 32,
+      "stratum": "low",
+      "p_illustrated": 0.9998121857643127
+    },
+    {
+      "label": "B3",
+      "challenge": "Structured numerical tables",
+      "selection_rationale": "An IOWA article page with several ruled numerical tables covering crops, livestock, railways, and population.",
+      "preferred_region_types": [
+        "Table",
+        "Chart",
+        "Picture",
+        "Figure"
+      ],
+      "row_idx": 110003,
+      "file_key": "pages/text-figs/cu31924032607784/cu31924032607784_p0393.jpg",
+      "edition": "9th",
+      "year": 1878,
+      "page": 476,
+      "title": "The Encyclopædia Britannica; a dictionary of arts, sciences, and general literature",
+      "contributor": "Cornell University Library",
+      "ia_url": "https://archive.org/details/cu31924032607784",
+      "ia_page_url": "https://archive.org/details/cu31924032607784/cu31924032607784/page/n475/mode/1up",
+      "bucket_url_jpg": "https://huggingface.co/buckets/biglam/britannica/resolve/source/jpg/cu31924032607784/cu31924032607784_0475.jpg",
+      "source_sha256": "77dbdddfe638c9951a4525e41b5b95054b0fa142c49d33e82e62e5cee9878858",
+      "source_bytes": 754234,
+      "words": 955,
+      "stratum": "text",
+      "p_illustrated": 0.9800528883934021
+    }
+  ]
+}
